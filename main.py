@@ -1,5 +1,5 @@
 from tkinter import *
-#Cambio nuevo
+#Cambio nuevo: Juan Perro
 boton = ""
 def digito(num):
 
