@@ -1,6 +1,8 @@
 from tkinter import *
-#Cambio nuevo: Juan Perro loco jajajajaja
+
 boton = ""
+
+
 def digito(num):
 
     global boton
@@ -8,6 +10,7 @@ def digito(num):
     boton = boton + str(num)
 
     calculo.set(boton)
+
 
 def igual():
 
