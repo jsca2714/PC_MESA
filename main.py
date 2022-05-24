@@ -1,7 +1,6 @@
 from tkinter import *
-
-
 boton = ""
+
 
 
 def digito(num):
